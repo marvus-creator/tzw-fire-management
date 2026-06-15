@@ -52,10 +52,14 @@ npm run dev        # starts on http://localhost:5173
 
 | Layer | Platform | URL |
 |-------|----------|-----|
-| Frontend | Vercel | _add link after deploy_ |
-| Backend API | Render | _add link after deploy_ |
-| API docs (Swagger) | Render | _backend-url_/api-docs |
+| Frontend | Vercel | https://tzw-fire-management.vercel.app |
+| Backend API | Render | https://tzw-fire-management.onrender.com |
+| API docs (Swagger) | Render | https://tzw-fire-management.onrender.com/api-docs |
 | Database | MongoDB Atlas | (managed) |
+
+> **Demo login:** `liveadmin@tzw.com` / `livepass123`
+> _Note: the backend runs on Render's free tier, which sleeps after ~15 min idle — the
+> first request may take 30–50s to wake up. This is normal, not an error._
 
 ### Deployment steps
 
