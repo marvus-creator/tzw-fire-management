@@ -7,6 +7,7 @@ inspections, log maintenance actions, manage compliance, and generate real-time 
 - **Backend:** Node.js, Express, MongoDB (Mongoose), JWT auth, Swagger/OpenAPI docs
 - **Frontend:** React (Vite), React Router, Axios
 - **Design docs:** [`DESIGN.md`](./DESIGN.md) (architecture + DB model) · [`MOCKUP.md`](./MOCKUP.md) (signup mockup)
+- **Figma mockup (registration form):** https://www.figma.com/design/Yiqoh5c9yeg6FRDWKMkXnn/Untitled?node-id=0-1
 
 ---
 

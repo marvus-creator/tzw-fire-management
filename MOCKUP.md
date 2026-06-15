@@ -1,8 +1,9 @@
 # User Registration / Signup — Mockup Specification (Activity 1.3)
 
+**Figma mockup:** https://www.figma.com/design/Yiqoh5c9yeg6FRDWKMkXnn/Untitled?node-id=0-1
+
 This is the design spec for the user registration screen. It is implemented in
-`frontend/src/pages/Register.jsx`. Recreate it in Figma using the layout, colours, and
-component specs below.
+`frontend/src/pages/Register.jsx`. The Figma mockup above was designed from this spec.
 
 ## Wireframe (split-screen layout)
 
